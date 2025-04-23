@@ -44,5 +44,10 @@ This repository is intended for:
 - Preparing for frontend interviews and coding challenges.
 
 ---
+## 🚀 Getting Started
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ankitchaurasiya84/hackerRankReactSolution.git
+   cd hackerRankReactSolution
 
